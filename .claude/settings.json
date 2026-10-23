@@ -1,0 +1,18 @@
+{
+  "extraKnownMarketplaces": {
+    "atlas-brief-project-plugins": {
+      "source": {
+        "source": "directory",
+        "path": "./.claude/cs-plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "atlas-brief@atlas-brief-project-plugins": true,
+    "author-annotation-columns@atlas-brief-project-plugins": true,
+    "onto-mapping@atlas-brief-project-plugins": true,
+    "paper-access@atlas-brief-project-plugins": true,
+    "remote-h5ad-obs@atlas-brief-project-plugins": true,
+    "atlas-brief-project-set@atlas-brief-project-plugins": true
+  }
+}

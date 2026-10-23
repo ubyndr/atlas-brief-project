@@ -1,0 +1,12 @@
+{
+  "name": "atlas-brief-project-set",
+  "version": "1.0.0",
+  "description": "Every plugin atlas-brief-project uses, as pinned in plugins.toml.",
+  "dependencies": [
+    "atlas-brief",
+    "author-annotation-columns",
+    "onto-mapping",
+    "paper-access",
+    "remote-h5ad-obs"
+  ]
+}
